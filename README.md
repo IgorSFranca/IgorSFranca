@@ -5,7 +5,7 @@
 - but now I'm studying computer engineering at Universidade Federal da Grande Dourados (UFGD), and my goal is work with AI. 
 - How to contact me: send a email to igor.de.souza.franca@gmail.com or contact me by Instagram.
 
-### Talk with Igor França:
+### My Social Media:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
