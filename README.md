@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## I'm Igor França
 - Bachelor degree of Accounting Sciences, MBA Auditing and Accounting Controlling and solid management experience,
 - but now I'm studying computer engineering at Universidade Federal da Grande Dourados (UFGD), and my goal is work with AI. 
